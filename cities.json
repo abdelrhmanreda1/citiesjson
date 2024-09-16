@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "cityName": "In Salah",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-09-16T15:25:21.539Z",
+      "notes": "",
+      "position": {
+        "lat": "27.780127013641472",
+        "lng": "2.9003906250000004"
+      },
+      "id": 1
+    }
+  ]
+}
